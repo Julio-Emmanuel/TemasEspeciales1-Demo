@@ -2,5 +2,7 @@
 #include <string.h>
 
 int main(){
-return
+
+printf("ohle te 2026");
+return 0;
 }
